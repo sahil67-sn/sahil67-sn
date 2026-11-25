@@ -8,6 +8,10 @@
 <img src="https://img.shields.io/badge/Open%20to-Learning-A78BFA?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Based%20in-Ajmer-F472B6?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sahil67-sn&label=Profile+Views&color=7C3AED&style=flat-square" alt="Profile Views" />
+
 </div>
 
 ---
@@ -49,9 +53,12 @@ const sahil = {
 
 <div align="center">
 
-<a href="https://github.com/sahil67-sn?tab=followers"><img src="https://img.shields.io/github/followers/sahil67-sn?style=for-the-badge&logo=github&color=7C3AED&labelColor=0D1117" alt="GitHub Followers" /></a>
-<a href="https://github.com/sahil67-sn?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20All-58A6FF?style=for-the-badge&logo=github&labelColor=0D1117" alt="Repositories" /></a>
-<a href="https://github.com/sahil67-sn?tab=stars"><img src="https://img.shields.io/badge/Starred-View%20All-F472B6?style=for-the-badge&logo=github&labelColor=0D1117" alt="Starred" /></a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sahil67-sn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil67-sn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=sahil67-sn&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
 
